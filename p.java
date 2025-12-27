@@ -34,7 +34,7 @@ boolean isPrime = true;
     }
 
       static String helloPrint(){
-        return  "Hello world";
+        return  "Hello world " + "Nikhil ";
       }
 }
 
