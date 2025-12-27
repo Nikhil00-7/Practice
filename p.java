@@ -31,5 +31,10 @@ boolean isPrime = true;
   }
 
   System.out.println("Hello world");
+    }
+
+      static String helloPrint(){
+        return  "Hello world";
+      }
 }
-}
+
