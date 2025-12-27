@@ -30,6 +30,6 @@ boolean isPrime = true;
      System.out.println("Its not a prime number"+ " "+ num);
   }
 
-  
+  System.out.println("Hello world");
 }
 }
